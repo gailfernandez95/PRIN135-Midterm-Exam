@@ -1,0 +1,50 @@
+
+h1{
+    color:#f0f0f0;
+    font-family:Arial, Helvetica, sans-serif;
+}
+h2{
+    color:#f0f0f0;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:12px;
+}
+fieldset{
+    background-color: black;
+    border-radius: 5px;
+    border-color:black;
+    padding: 50px;
+}
+label{
+    color:#f0f0f0;
+    font-size:12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    color:#f0f0f0;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:12px;
+}
+ul > li > label{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:12px;
+}
+a{
+    color:#f0f0f0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+a:hover{
+    color:grey;
+}
+button{
+    background-color: rgb(4, 160, 4);
+    color:#f0f0f0;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left:75px;
+    padding-right:75px;
+}
+button:hover{
+    background-color: palegreen;
+}
